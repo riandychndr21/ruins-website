@@ -1,0 +1,1 @@
+setup untuk tampilan lain
