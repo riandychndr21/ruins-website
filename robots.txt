@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://trustlocalid.online/sitemap.xml
